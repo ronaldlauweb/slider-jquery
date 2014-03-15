@@ -9,7 +9,7 @@ el HangOut semanal que hacemos luego de Mejorandola.
 
 ## Un poco de explicación de ambos ejemplos
 
-### Ejemplo simple
+### Ejemplo simple.
 
 Aquí es donde programamos la versión más sencilla (`simple.html`),
 donde llegué a explicar la lógica detrás de la marquesina que
